@@ -8,6 +8,17 @@
 
 ## This app is bootstraped with # React-Bootstrap and npx-create-react-app.
 
+# :gear: Built with
+
++ React JS - Front-End JavaScript library
++ ReactBootStrap - React UI Framework
+Installation
+
+#	:electric_plug: Components Used
+## Functional components 
++	NavigationMenu
++ UserCard
+
 # Procedure
 
 + Created NavBar and Get Users Button with React-bootstrap.
@@ -19,4 +30,4 @@
 
 # Deployment
 
-+ The Project is deployed in GitHub.
++ The Project is pushed in GitHub repository.
